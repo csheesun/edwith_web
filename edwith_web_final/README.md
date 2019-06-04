@@ -6,7 +6,7 @@ This is what I created while learning 'Web Boost Course' lecture of https://www.
 
 <h2>myhomepage</h2>
 <p>
-Simple homepage developed using maven, servlet and tomcat.
+Simple homepage developed using maven, servlet and tomcat.<br>
 This is what I created while learning 'Web Boost Course' lecture of https://www.edwith.org/boostcourse-web/joinLectures/12943
 </p>
 
